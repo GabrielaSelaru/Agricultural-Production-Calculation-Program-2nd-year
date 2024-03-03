@@ -8,18 +8,18 @@ floarea soarelui.
 Tinand cont ca nu poate pune mai mult de 60% din o cultura si mai putin de 10% si nu poate
 cultiva 2 ani la rand aceeasi cultura pe acelasi teren.
 ## Cerinte:
-  # ce venit are fermierul daca cultiva 40% suprafata cu porumb, 40% cu grau si 20% cu
+  * ce venit are fermierul daca cultiva 40% suprafata cu porumb, 40% cu grau si 20% cu
 floarea soarelui
-  # calculati venitul optim pentru fermier pe parcursul a 2 ani
-  # fermierul doreste sa introduca o noua cultura, de orz, productia este de 4 tone pe Ha si
+  * calculati venitul optim pentru fermier pe parcursul a 2 ani
+  * fermierul doreste sa introduca o noua cultura, de orz, productia este de 4 tone pe Ha si
 pretul este de 1700 lei pe tona si doreste sa o planteze pe 20% din suprafata in fiecare
 an, care este venitul optim realizat pe 2 ani?
-  # afisati randamentul pe an al fiecarei culturi(pret/Ha obtinut de la fiecare cultura) //
+  * afisati randamentul pe an al fiecarei culturi(pret/Ha obtinut de la fiecare cultura) //
 inclusiv orz
-  # fermierul intra intr-o asociatie de fiermieri unde invata cum sa produca cu 30% mai mult
+  * fermierul intra intr-o asociatie de fiermieri unde invata cum sa produca cu 30% mai mult
 pe Ha din fiecare cultura, cum este optim sa isi puna culturile pe urmatorii 2 ani? si ce
 venit va avea fermierul? // produce si orz
-  # desi fermierul reuseste sa produca cu 30% mai mult, preturile au scazut cu 40% cum ii
+  * desi fermierul reuseste sa produca cu 30% mai mult, preturile au scazut cu 40% cum ii
 impacteaza venitul pe urmatorii 2 ani? // produce si orz
 
 La rezolvare folositi-va de cunostiintele invatate(sa aveti un vector neomogen de
