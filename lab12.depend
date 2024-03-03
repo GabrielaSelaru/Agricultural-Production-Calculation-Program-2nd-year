@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1671835486 source:c:\users\gabita\desktop\poo\lab12\floarea_soarelui.cpp
+	"floarea_soarelui.h"
+
+1671835486 source:c:\users\gabita\desktop\poo\lab12\grau.cpp
+	"grau.h"
+
+1671836665 source:c:\users\gabita\desktop\poo\lab12\main.cpp
+	"orz.h"
+
+1671836606 source:c:\users\gabita\desktop\poo\lab12\porumb.cpp
+	"porumb.h"
+
+1671822182 source:c:\users\gabita\desktop\poo\lab12\interfata.cpp
+	"interfata.h"
+
+1671836783 c:\users\gabita\desktop\poo\lab12\interfata.h
+	<iostream>
+	<cstring>
+
+1671835377 c:\users\gabita\desktop\poo\lab12\grau.h
+	"interfata.h"
+
+1671835377 c:\users\gabita\desktop\poo\lab12\porumb.h
+	"grau.h"
+
+1671835377 c:\users\gabita\desktop\poo\lab12\floarea_soarelui.h
+	"porumb.h"
+
+1671835486 source:c:\users\gabita\desktop\poo\lab12\orz.cpp
+	"orz.h"
+
+1671835377 c:\users\gabita\desktop\poo\lab12\orz.h
+	"floarea_soarelui.h"
+
